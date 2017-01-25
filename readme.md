@@ -74,3 +74,6 @@ Audacity is an accessible multi-track audio recording and editing software with 
 
 **ADVANCED OPTIONS:**
 * Audio can also be recorded directly from your device without actually importing files into audacity. Skype interviews and audio from YouTube videos can be added into audacity this way. For a tutorial on how to do this with a Windows 10 operating system, watch this quick 5-minute video. To do this on a Mac, watch this tutorial. You will need to download a free program called Soundflower, which will allow you to reroute your internal audio to Audacity.
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
