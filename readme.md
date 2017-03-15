@@ -1,19 +1,19 @@
-#Recording Audio
+# Recording Audio
 
-##Hn4 Zoom Handy Mic
+## Hn4 Zoom Handy Mic
 The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the [H4n Operation Manual.](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf)
 
 <img src="img/handymicoff.png" width="40%"> <img src="img/handymicon.png" width="40%">
 
 
 
-###Optional Accessories
+### Optional Accessories
 * Windscreen
 * Table stand
 * Power cord
 * Lapel mic (plugs into bottom of recorder)
 
-###Setup
+### Setup
 1. Confirm there is an SD memory card inserted on the right side of the recorder
 1. Turn the mic on by sliding the power button (left side of the recorder) down and holding for a second.</li>
 1. It will likely take a moment to load. If it says “NO DATA,” try removing the card and putting it back in.</li>
@@ -21,12 +21,12 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 1. Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.
 
 
-###Recording
+### Recording
 1. Press the ‘REC/⚫’ button again to start recording. The indicator ring around the button should be red, and the time indicator on the screen should be counting up.
 1. When you’re done, press ‘◼’. You can record as many clips as are necessary.
 
 
-###Exporting Files
+### Exporting Files
 1. When you’re done recording, press in on the SD card to eject it, and put the card into a computer.
 1. The SD card will have three folders on it: 4CH, MTR, STEREO. Your files will be in the folder that corresponds to the recording setting you used. STEREO is the default.
 1. Each of these folders will have ‘FOLDER01-FOLDER10’ in them. Your files should be in ‘FOLDER01.’
@@ -34,7 +34,7 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 
 
 
-##Yeti Mic
+## Yeti Mic
 Before you begin recording, plug in the Yeti Mic’s USB cable to a USB port on your computer.
 **Note that if you open Audacity before plugging in the microphone, you will not be able to select the Yeti Mic as your audio source.**
 
@@ -50,7 +50,7 @@ Be sure that your microphone is positioned correctly. It should be about one foo
 
 After your microphone is plugged into your USB port and you’ve selected the correct microphone pattern, open Audacity and change the audio source from the “Built-In Microphone” to the “Yeti Stereo Microphone.”   **Be sure that the microphone isn’t muted. When the microphone is muted, the button will flash red. When the microphone is not muted, the button will glow solid red.**
 
-#Editing Audio in Audacity
+# Editing Audio in Audacity
 
 Audacity is an accessible multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance.
 
@@ -76,4 +76,4 @@ Audacity is an accessible multi-track audio recording and editing software with 
 * Audio can also be recorded directly from your device without actually importing files into audacity. Skype interviews and audio from YouTube videos can be added into audacity this way. For a tutorial on how to do this with a Windows 10 operating system, watch this quick 5-minute video. To do this on a Mac, watch this tutorial. You will need to download a free program called Soundflower, which will allow you to reroute your internal audio to Audacity.
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
